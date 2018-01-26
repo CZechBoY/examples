@@ -1,0 +1,25 @@
+{
+	"name": "nette-examples/authentication",
+	"type": "project",
+	"description": "Example authentication and registration of new user in Nette framework.",
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Nette Community",
+			"homepage": "https://nette.org/contributors"
+		}
+	],
+	"require": {
+		"php": ">=7.1",
+		"nette/application": "^3.0",
+		"nette/bootstrap": "^3.0",
+		"nette/database": "^3.0",
+		"nette/forms": "^3.0",
+		"nette/robot-loader": "^3.0",
+		"nette/security": "^3.0",
+		"nette/utils": "^3.0",
+		"latte/latte": "^3.0",
+		"tracy/tracy": "^2.4"
+	},
+	"minimum-stability": "dev"
+}
